@@ -21,3 +21,4 @@ I am living in Pune.
 =======
 Hiii Hello
 >>>>>>> parent of 6ef72d3 (tejas added in b file)
+hi i tejas
